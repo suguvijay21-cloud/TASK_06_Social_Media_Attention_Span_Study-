@@ -1,0 +1,29 @@
+SOCIAL MEDIA ATTENTION SPAN STUDY — SUMMARY REPORT
+============================================================
+Total users analysed      : 1,767
+Avg session duration      : 24.22 min
+Avg engagement level      : 4.89 / 10
+Avg completion rate       : 64.76 %
+
+HYPOTHESIS TESTING
+----------------------------------------
+ANOVA (content type vs duration) → F=298.7890, p=0.000000 → Significant
+T-Test (heavy vs light scroll)   → t=-0.8273, p=0.408188 → Not significant
+Chi-Square (age vs content pref) → χ²=11.1194, p=0.943066 → Not significant
+
+TOP CONTENT TYPES BY SESSION DURATION
+----------------------------------------
+  Video           : 34.36 min
+  Reels           : 27.98 min
+  Stories         : 18.98 min
+  Images          : 15.44 min
+  Text Posts      : 11.93 min
+
+USER SEGMENT SUMMARY
+----------------------------------------
+  Casual User           :  456 users | session 25.8 min | engagement 4.95
+  Heavy User            :  157 users | session 38.5 min | engagement 7.48
+  High-Engagement User  :  189 users | session 37.8 min | engagement 8.05
+  Scroll-Heavy User     :  264 users | session 29.9 min | engagement 5.95
+  Short-Session User    :  583 users | session 10.0 min | engagement 2.26
+  Video-First User      :  118 users | session 34.8 min | engagement 6.82
